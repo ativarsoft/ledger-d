@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/ledger-d
+ledger-d.so
+ledger-d.dylib
+ledger-d.dll
+ledger-d.a
+ledger-d.lib
+ledger-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
